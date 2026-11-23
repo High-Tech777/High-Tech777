@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+visit+my+High-Tech777!!!;Technology+Enthusiast;Full Stack+&+AI+Developer&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+visit+my+High-Tech777!!!;Technology+Enthusiast;Full+Stack+%26+AI+Developer&center=true&width=600&height=50">
 </p>
 
 <h2 align="center">
@@ -16,4 +16,3 @@
 - 🔨 Building Software Projects
 - 🌱 Continuously Learning New Technologies
 - 🤝 Open to Collaboration and Innovation
-
